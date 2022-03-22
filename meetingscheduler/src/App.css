@@ -1,0 +1,41 @@
+
+.footer{
+    background-color: #D1C4E9;
+    margin:0px auto;
+    padding: 20px 0px 20px 0px;
+  }
+  .address{
+    font-size:80%;
+    margin:0px;
+    color:#0f0f0f;
+  }
+  
+  .navbar-dark {
+    background-color: #512DA8;
+  }
+  
+  .topdate{
+      text-align: center;
+  }
+
+  .btndate{
+      background-color: white;
+      border: 0px;
+  }
+
+
+  .meetingsdetailsbox{
+    background-color: whitesmoke;
+    box-shadow: 0 1.5rem 4rem rgba(0, 0, 0, 0.432);
+    margin-top: 5px;
+    margin-bottom:1%;
+  }
+
+
+  .addmeetings{
+    background-color: mediumblue;
+    margin-top: 6%;
+    margin-left: 45%;
+    
+    margin-bottom: 2%;
+  }

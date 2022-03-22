@@ -1,0 +1,26 @@
+npx create-react-app nameofproject
+npm install --save bootstrap
+npm install --save reactstrap react react-dom
+npm install font-awesome@4.7.0 --save
+npm install bootstrap-social@5.1.1 --save
+npm install react-router-dom@4.2.2 --save
+npm install redux@3.7.2 --save
+npm install react-redux@5.0.7 --save
+npm install react-redux-form@1.16.8 --save
+npm install redux-thunk@2.2.0 --save
+npm install redux-logger@3.0.6 --save
+
+npm install cross-fetch@2.1.0 --save
+
+npm install react-transition-group@2.3.0 --save
+npm install react-animation-components@3.0.0 --save
+npm install prop-types@15.6.0 --save
+
+
+npm install -g json-server
+
+json-server --watch db.json -d 2000 -p 3001
+
+C:\Program Files\nodejs\node_modules\json-server\public
+
+https://react-icons.github.io/react-icons/icons?name=fa

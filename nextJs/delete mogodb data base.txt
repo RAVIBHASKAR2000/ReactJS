@@ -1,0 +1,4 @@
+mongo DATABASE_NAME --eval "db.dropDatabase();"
+
+
+mongo posts --eval "db.dropDatabase();"

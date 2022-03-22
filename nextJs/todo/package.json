@@ -1,0 +1,18 @@
+{
+  "name": "todo",
+  "version": "\t",
+  "description": "todo application using keystone and next js",
+  "main": "index.js",
+  "repository": "https://github.com/RAVIBHASKAR2000/todo-keystonejs.git",
+  "author": "ravi bhaskar",
+  "license": "\t",
+  "dependencies": {
+    "@keystonejs/adapter-mongoose": "^9.0.1",
+    "@keystonejs/app-graphql": "^6.1.0",
+    "@keystonejs/fields": "^15.0.0",
+    "@keystonejs/keystone": "^13.0.0"
+  },
+  "scripts": {
+    "start:dev": "keystone"
+  }
+}
